@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: center;
+}
+<p>Lorem ipsum dolor sit <span style="color: red;">amet consectetur </span> adipisicing elit. Corrupti quam excepturi totam doloribus. Nulla, iure alias quibusdam, officia dicta ipsam culpa eum sit dolorum est tempora eaque quae! Consequuntur, ad.</p>
